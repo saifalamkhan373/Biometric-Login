@@ -1,3 +1,3 @@
 # Biometric-Login
 Biometric login for andriod app using React Native
-USED react-native-touch-id FOR FINGERPRINT.
+Used react-native-touch-id package for FINGERPRINT.
